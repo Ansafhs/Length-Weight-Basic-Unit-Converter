@@ -18,20 +18,9 @@ A simple command-line program written in C that allows users to convert units of
 ## Installation
 1. Ensure you have a C compiler installed (e.g., GCC).
 2. Clone the repository or download the source code.
-   ```bash
-   git clone https://github.com/Ansafhs/Length-Weight-Basic-Unit-Converter/
-   cd unitconversion
-   ```
-3. Compile the program using:
-   ```bash
-   gcc unitconversion.c -o unitconversion
-   ```
-
+3. Compile the program using c compilers like gcc
 ## Usage
 Run the compiled program from the command line:
-```bash
-./unitconversion
-```
 Follow the on-screen prompts to choose the type of conversion and enter the required values.
 
 ## Example
@@ -59,13 +48,10 @@ Enter the Length: 500
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open source.
 
 ## Acknowledgments
 - C programming language resources.
 - Inspiration from various unit conversion applications.
 ```
 
-### Notes:
-- Replace `https://github.com/yourusername/unitconversion.git` with the actual URL of your GitHub repository.
-- You may want to add a LICENSE file if you haven’t already. Let me know if you need help with that!
